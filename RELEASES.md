@@ -2,10 +2,11 @@
 
 Krátké poznámky k vydáním: co se změnilo a v které části aplikace. Ostrý web: [https://drone-academy-fzp-czu.web.app](https://drone-academy-fzp-czu.web.app).
 
-Aktuální verze: **3.2.2**
+Aktuální verze: **3.2.3**
 
 | Verze | Typ | Oblasti |
 |-------|-----|---------|
+| **3.2.3** | vylepšení | OpenSkyLab ikony DPZ/dron v základním a pokročilém; vizuál pravidel u rámce |
 | **3.2.2** | nová funkce | instruktoři ke skupině, hromadné uznání, platnost skupiny, výzvy |
 | **3.2.1** | vylepšení | uložení odpovědi, světlé zobrazení, avatary, pokusy na nástěnce, uznání |
 | **3.2** | nová funkce | podrobnosti lokality, opakování A2, admin testy scénáře |
@@ -24,6 +25,10 @@ Aktuální verze: **3.2.2**
 | **1.0** | nová funkce | základ platformy |
 
 ---
+
+## 3.2.3 — 30. 10. 2026
+
+V základním i pokročilém scénáři jsou malé ikony OpenSkyLab: satelit (DPZ / spektrální indexy) a dron. V základním modulu kroužek **i** vedle nadpisu na vizuál k tématu. U regulačního rámce kroužek **i** otevře vizuál pravidel. V A2 odkazy nejsou. Náhled DroneMap jde zvětšit na celou obrazovku.
 
 ## 3.2.2 — 30. 10. 2026
 

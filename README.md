@@ -4,7 +4,7 @@ Simulovaný výcvik pilotů dronů pro studenty [Fakulty životního prostředí
 
 **Ostrý provoz:** [https://drone-academy-fzp-czu.web.app](https://drone-academy-fzp-czu.web.app)
 
-Aktuální verze: **3.2.2** (říjen 2026). Přehled změn: [RELEASES.md](./RELEASES.md) · [GitHub Releases](https://github.com/LenkaMikova/DroneAcademy-public/releases).
+Aktuální verze: **3.2.3** (říjen 2026). Přehled změn: [RELEASES.md](./RELEASES.md) · [GitHub Releases](https://github.com/LenkaMikova/DroneAcademy-public/releases).
 
 Zdrojový kód aplikace **není veřejný**. Tento repozitář obsahuje jen informace pro zájemce: co aplikace umí a co přibylo v jednotlivých verzích.
 
@@ -31,6 +31,26 @@ Přístup mají studenti a vyučující FŽP ČZU. Účet zakládá administrát
 - XP, hodnost, uznání (medaile) a skupinové **výzvy**
 - Světlé i tmavé zobrazení, profil a avatar
 - Nástěnka instruktora podle přiřazených skupin
+
+### Náhled
+
+<p>
+<img src="./images/nastenka-zakladni.png" alt="Nástěnka — základní modul" width="800">
+</p>
+
+Nástěnka výcviku: pět témat základního modulu, Beginner / Intermediate, XP a rozepsaný scénář.
+
+<p>
+<img src="./images/nastenka-pokrocily.png" alt="Nástěnka — pokročilý modul" width="800">
+</p>
+
+Pokročilý modul: oblasti (vegetace, voda, EIA, …) a úrovně Specialist / Expert.
+
+<p>
+<img src="./images/scenar-zakladni.png" alt="Scénář základního modulu" width="800">
+</p>
+
+Scénář s AI instruktorem. Vedle názvu modulu je kroužek **i** na interaktivní vizuál OpenSkyLab.
 
 ---
 
